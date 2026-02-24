@@ -22,7 +22,7 @@ organizations:
       certificates:
       - name: 'User1'
         clientPrivateKey:
-          path: '../fabric-samples/eKYC/test-network/organizations/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/keystore/priv_sk'
+          path: '../fabric-samples/eKYC/test-network/organizations/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/keystore/14268015440398f14d8902893a6fe66b8c947af5edd75de6e1041e45638a022c_sk'
         clientSignedCert:
           path: '../fabric-samples/eKYC/test-network/organizations/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/signcerts/cert.pem'
     connectionProfile:
